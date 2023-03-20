@@ -1,0 +1,15 @@
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\bin\Debug\net6.0\MultithreadingDirectory.exe
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\bin\Debug\net6.0\MultithreadingDirectory.deps.json
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\bin\Debug\net6.0\MultithreadingDirectory.runtimeconfig.json
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\bin\Debug\net6.0\MultithreadingDirectory.dll
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\bin\Debug\net6.0\MultithreadingDirectory.pdb
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.csproj.AssemblyReference.cache
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.AssemblyInfoInputs.cache
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.AssemblyInfo.cs
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.csproj.CoreCompileInputs.cache
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.dll
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\refint\MultithreadingDirectory.dll
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.pdb
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\MultithreadingDirectory.genruntimeconfig.cache
+D:\SourceCodes\testing_codes\MultithreadingDirectory\MultithreadingDirectory\obj\Debug\net6.0\ref\MultithreadingDirectory.dll
